@@ -1,3 +1,3 @@
-# TextMining
+# Text-Mining
 
-A Text Mining presentation source code.
+A Text Mining presentation source code. 
